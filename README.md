@@ -39,9 +39,7 @@ Mount Google Drive.
 Update paths for videos_dir, frames_dir, and output_csv_path to the correct Google Drive directories.
 Run the script to perform detection, tracking, and save results.
 # Sample Usage:
-python
-Copy code
-# Set paths to Google Drive directories
+Set paths to Google Drive directories
 videos_dir = '/content/drive/MyDrive/ObjectDetection/Videos'
 frames_dir = '/content/drive/MyDrive/ObjectDetection/Frames'
 output_csv_path = '/content/drive/MyDrive/ObjectDetection/CSV_Outputs/detections_summary.csv'
